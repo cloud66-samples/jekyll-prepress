@@ -1,3 +1,0 @@
-prepress:
-  configuration:
-    build_command: npm run build
