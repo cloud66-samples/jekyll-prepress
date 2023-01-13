@@ -1,3 +1,4 @@
 prepress:
   configuration:
     build_command: npm run build
+    language_version: 3.1.3
